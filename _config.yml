@@ -1,7 +1,7 @@
 # Site settings
 
 # NB! Set your site's url, otherwise nothing will work
-url: "https://le4ker.github.io/personal-jekyll-theme"
+url: "https://paaraspurohit.github.io/lc-projects-frontend"
 
 # Google tracking id
 google-tracking-id: "UA-XXXXXXXX-X"
@@ -10,10 +10,10 @@ google-tracking-id: "UA-XXXXXXXX-X"
 # HTML Head #
 #############
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
-keywords: "smith, jones, personal, jekyll, theme"
+author: "Paaras Purohit"
+title: "HyperPlanar Projects"
+description: "Blogs and projects for software engineering intern Paaras Purohit under HyperPlanar"
+keywords: "ai, langchain, llm, machine learning, ml, gpt, api, gemini, paaras, purohit"
 favicon: "/img/favicon.ico"
 ################
 # Header layout #
@@ -31,8 +31,10 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Paaras Purohit"
+  - text: "Prospective software engineer"
+  - text: "Building skills in AI/ML"
+  - text: "HyperPlanar software engineering intern"
 me-img: "/img/jetpacktocat.png"
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
@@ -94,7 +96,7 @@ timeline-img: "/img/timeline/default.png"
 ###########
 # Contact #
 ###########
-email: "your@email.here"
+email: "pmpurohit2017@outlook.com"
 # Set a url pointing to your publish PGP Public Key here, and it will appear in the Contact section
 pgp: False
 ################
@@ -106,21 +108,16 @@ pgp: False
 
 # if the author_blurb is not set, then this feature is skipped
 author_blurb:
-  "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional
-  engineering projects. In his spare time, John likes to eat cotton candy."
-author_blurb_image: "/img/author.png"
+  "Paaras Purohit is a prospective software engineer and computer scientist who specializes in full-stack development and project management, and is growing his skillset in AI/ML."
+author_blurb_image: "/img/1.jpg"
 ##################
 # Social Buttons #
 ##################
 social:
   - icon: "github"
-    url: "https://github.com/le4ker/personal-jekyll-theme"
+    url: "https://github.com/PaarasPurohit"
   - icon: "linkedin-in"
-    url: "https://www.linkedin.com"
-  - icon: "x-twitter"
-    url: "https://twitter.com/"
-  - icon: "rss"
-    url: "https://le4ker.github.io/personal-jekyll-theme/feed.xml"
+    url: "https://www.linkedin.com/in/paaras-purohit-7420b72b8/"
 ############
 # 404 page #
 ############
@@ -133,8 +130,6 @@ err-404-img: "/img/labtocat.png"
 pages_list:
   About: "about"
   Blog: "latest-post"
-  Timeline: "timeline"
-  Contact: "contact"
 # Exclusion list from the generated _site
 exclude:
   - LICENSE
